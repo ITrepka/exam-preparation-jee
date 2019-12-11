@@ -6,3 +6,4 @@
 5.Stwórz 3 strony z różną zawartością (main.html, contact.html, about.html) i servlet pod adresem /router pełniący rolę routera - przyjmuje jako parametr site nazwę strony i przekierowuje (redirect) na odpowiednią stronę lub wyświetla komunikat o błędzie gdy strona nie istnieje.<br/>
 Przykład: po otworzeniu adresu router?site=about powinniśmy zostać przeniesieni do strony about.html<br/>
 6. Wykonaj zadanie 5 z wykorzystaniem nagłówka site zamiast parametru<br/>
+7. Stwórz klasę Customer (id, name, surname, birthYear) oraz servlet realizujący rolę CRUD-a RESTowego<br/>
